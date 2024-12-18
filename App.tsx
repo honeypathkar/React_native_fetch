@@ -16,7 +16,7 @@ const App = () => {
           options={{animation: 'slide_from_right'}}
         />
         <Stack.Screen
-          name="Details Screen"
+          name="Details"
           component={DetailsScreen}
           options={{animation: 'slide_from_right'}}
         />
